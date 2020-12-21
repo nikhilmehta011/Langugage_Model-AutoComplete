@@ -5,3 +5,7 @@
 
 ### Here language model is used to predict the nex word given the few previous words in a sequence.
 
+## Results
+
+![single_word](https://user-images.githubusercontent.com/35212721/102787917-d077d800-43c7-11eb-9566-a568d9195212.png)
+![multiple_words](https://user-images.githubusercontent.com/35212721/102787927-d40b5f00-43c7-11eb-8dcd-29414fbb0bad.png)
